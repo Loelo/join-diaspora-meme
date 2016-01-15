@@ -27,16 +27,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.38254353"
-     inkscape:cx="428.08679"
-     inkscape:cy="1009.3462"
+     inkscape:zoom="0.87885424"
+     inkscape:cx="157.84858"
+     inkscape:cy="1191.4014"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="993"
      inkscape:window-height="1223"
      inkscape:window-x="27"
-     inkscape:window-y="152"
+     inkscape:window-y="26"
      inkscape:window-maximized="0"
      units="in"
      showguides="false"
@@ -345,7 +345,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -545,13 +545,13 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Burst My Bubble';-inkscape-font-specification:'Burst My Bubble, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
          x="309"
-         y="895.36218"
+         y="907.02795"
          id="text4905"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan4907"
            x="309"
-           y="895.36218"
+           y="907.02795"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff">MARCHANDISE</tspan></text>
     </g>
     <g
@@ -569,13 +569,13 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Burst My Bubble';-inkscape-font-specification:'Burst My Bubble, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
          x="309"
-         y="895.36218"
+         y="907.02795"
          id="text4905-7"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan4907-1"
            x="309"
-           y="895.36218"
+           y="907.02795"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff">MARCHANDISE</tspan></text>
     </g>
     <image
@@ -589,12 +589,12 @@
     <text
        sodipodi:linespacing="125%"
        id="text4905-2"
-       y="480.61722"
+       y="484.61722"
        x="168.71057"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.71540642px;line-height:125%;font-family:'Burst My Bubble';-inkscape-font-specification:'Burst My Bubble, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.4298315px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff"
-         y="480.61722"
+         y="484.61722"
          x="168.71057"
          id="tspan4907-18"
          sodipodi:role="line">MARCHANDISE</tspan></text>
