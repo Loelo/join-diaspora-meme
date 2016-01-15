@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="vector-french.svg"
-   inkscape:export-filename="/home/richard/src/join-diaspora-meme/figure-english.png"
+   inkscape:export-filename="/home/lo/image.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
@@ -27,16 +27,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.63"
-     inkscape:cx="383.85949"
-     inkscape:cy="911.42224"
+     inkscape:zoom="0.38254353"
+     inkscape:cx="428.08679"
+     inkscape:cy="1009.3462"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="630"
+     inkscape:window-width="993"
      inkscape:window-height="1223"
-     inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-x="27"
+     inkscape:window-y="152"
      inkscape:window-maximized="0"
      units="in"
      showguides="false"
@@ -345,7 +345,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -356,8 +356,11 @@
     <path
        inkscape:connector-curvature="0"
        id="rect5560"
-       d="m -71.287637,-32.587995 905.178417,0 0,1907.175495 -905.178417,0 z"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.59397149;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       d="m -33.307809,-30.072541 772.667449,0 0,1907.372841 -772.667449,0 z"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.39671755;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/lo/rect5560.png"
+       inkscape:export-xdpi="90.108673"
+       inkscape:export-ydpi="90.108673" />
     <path
        inkscape:connector-curvature="0"
        id="path4747"
@@ -549,7 +552,7 @@
            id="tspan4907"
            x="309"
            y="895.36218"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff">PRODUIT</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff">MARCHANDISE</tspan></text>
     </g>
     <g
        transform="matrix(0.34288515,0,0,0.34288515,467.28975,173.61083)"
@@ -573,7 +576,7 @@
            id="tspan4907-1"
            x="309"
            y="895.36218"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff">PRODUIT</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff">MARCHANDISE</tspan></text>
     </g>
     <image
        width="201.61647"
@@ -594,7 +597,7 @@
          y="480.61722"
          x="168.71057"
          id="tspan4907-18"
-         sodipodi:role="line">PRODUIT</tspan></text>
+         sodipodi:role="line">MARCHANDISE</tspan></text>
     <path
        inkscape:connector-curvature="0"
        inkscape:original-d="m 504.84514,235.22173 c -2.05188,0.51298 -2.55069,0.47461 -1.4238,0.47461"
@@ -812,36 +815,36 @@
     <text
        sodipodi:linespacing="125%"
        id="text5066"
-       y="1222.3734"
-       x="793.86298"
+       y="1209.3031"
+       x="715.44061"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Burst My Bubble';-inkscape-font-specification:'Burst My Bubble, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan5036"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26px;font-family:Purisa;-inkscape-font-specification:Purisa;text-align:end;text-anchor:end"
-         y="1222.3734"
-         x="793.86298"
+         y="1209.3031"
+         x="715.44061"
          sodipodi:role="line">Allez sur <tspan
    id="tspan3294"
    style="font-weight:bold;font-size:26px">https://podupti.me/</tspan></tspan><tspan
          id="tspan5042"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26px;font-family:Purisa;-inkscape-font-specification:Purisa;text-align:end;text-anchor:end"
-         y="1255.0372"
-         x="793.86298"
+         y="1241.9669"
+         x="715.44061"
          sodipodi:role="line"> Rejoignez un 'pod' proche.</tspan><tspan
          id="tspan5090"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26px;font-family:Purisa;-inkscape-font-specification:Purisa;text-align:end;text-anchor:end"
-         y="1287.5372"
-         x="810.67157"
+         y="1274.4669"
+         x="732.24921"
          sodipodi:role="line">Partagez votre adresse diaspora </tspan><tspan
          id="tspan3269"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26px;font-family:Purisa;-inkscape-font-specification:Purisa;text-align:end;text-anchor:end"
-         y="1320.0372"
-         x="810.67157"
+         y="1306.9669"
+         x="732.24921"
          sodipodi:role="line">avec cette image </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26px;font-family:Purisa;-inkscape-font-specification:Purisa;text-align:end;text-anchor:end"
          id="tspan5080"
-         y="1352.5372"
-         x="793.86298"
+         y="1339.4669"
+         x="715.44061"
          sodipodi:role="line" /></text>
     <path
        style="fill:#d0d0d0"
@@ -1346,7 +1349,7 @@
          x="362.61627"
          sodipodi:role="line">Nous pouvons changer ça !</tspan></text>
     <g
-       transform="matrix(0.96138738,0,0,0.9867754,12.330068,10.205726)"
+       transform="matrix(0.96138738,0,0,0.9867754,-53.021972,23.276134)"
        id="g3690">
       <g
          id="g3643"
@@ -1457,8 +1460,8 @@
          x="305.58801"
          sodipodi:role="line" /></text>
     <image
-       y="1239.881"
-       x="10.37967"
+       y="1281.7063"
+       x="-10.532982"
        id="image3612"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGMAAAA8CAYAAABy4wS3AAAABmJLR0QAAAAAAAD5Q7t/AAAACXBI WXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wweFwsp4qU9pQAAAXFJREFUeNrtnM0SgjAMBo3j2+gN Rt//6sDR56lX7FDaxqT87R4R0CHdr6GiEkK4wDa4cgkoBsxwqz1ARMg1BSEEwQxiCtxiahpNdF86 omsomEFMQbE9qdghmlwja7bLwgxiCrLdlIh0XBLMgItiOUQ7WeWagOmkFi0jmByn/Ry15yl9H8w4 uxm1aNtorQm5/Wu3M2dghv8NkWZk/2tYag5KmWhpCGZghv+cYfX+OVNiQzADMyqz+PH63fB5z45m q+z3nls8DGljxv3JsN+CGaUjz3uuyO2Xej3erj0Pc8bOoBgUAygGxQCLbqqf9OaDV99/FlIPIWAG MQVZexa+Pkw9nDCsfZNosSjXGp5CJ6bAPKYKI8uKqm4tiql+w9E0YgYxBU1iyukmqLOIqZIuBTOA YuyZpk+HEE2YQTFg4zGliLXDRxNmUAzYRUwt/PpIMAMoxtlpujYV/VdVn4imETOAYsBKMQWYQTGA YlAMoBiH4wuUgrzs9y47ewAAAABJRU5ErkJggg== "
        preserveAspectRatio="none"
